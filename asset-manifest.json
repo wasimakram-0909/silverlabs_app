@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/silverlabs_app/static/css/main.8d58c91a.chunk.css",
+    "main.js": "/silverlabs_app/static/js/main.54bd3680.chunk.js",
+    "main.js.map": "/silverlabs_app/static/js/main.54bd3680.chunk.js.map",
+    "runtime-main.js": "/silverlabs_app/static/js/runtime-main.3614e303.js",
+    "runtime-main.js.map": "/silverlabs_app/static/js/runtime-main.3614e303.js.map",
+    "static/js/2.b5f7ed73.chunk.js": "/silverlabs_app/static/js/2.b5f7ed73.chunk.js",
+    "static/js/2.b5f7ed73.chunk.js.map": "/silverlabs_app/static/js/2.b5f7ed73.chunk.js.map",
+    "index.html": "/silverlabs_app/index.html",
+    "precache-manifest.d36757b1afa26ac3849fbf17258b5892.js": "/silverlabs_app/precache-manifest.d36757b1afa26ac3849fbf17258b5892.js",
+    "service-worker.js": "/silverlabs_app/service-worker.js",
+    "static/css/main.8d58c91a.chunk.css.map": "/silverlabs_app/static/css/main.8d58c91a.chunk.css.map",
+    "static/js/2.b5f7ed73.chunk.js.LICENSE.txt": "/silverlabs_app/static/js/2.b5f7ed73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3614e303.js",
+    "static/js/2.b5f7ed73.chunk.js",
+    "static/css/main.8d58c91a.chunk.css",
+    "static/js/main.54bd3680.chunk.js"
+  ]
+}
